@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/du.mk
+    $(LOCAL_DIR)/bliss_dumpling.mk
